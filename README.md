@@ -5,4 +5,4 @@
 * Clone repo
 * Run: ```npm install```
 * Run: ```npm start```
-* Go to: https://localhost:8080
+* Go to: <localhost:8080>
